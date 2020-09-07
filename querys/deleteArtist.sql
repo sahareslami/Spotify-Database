@@ -1,0 +1,1 @@
+DELETE FROM artist WHERE username = 'sahar';

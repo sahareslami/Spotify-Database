@@ -1,0 +1,1 @@
+ALTER TABLE playList AUTO_INCREMENT = 1;

@@ -1,0 +1,1 @@
+delete from musicGenre where musicId = 'lilinglingId'

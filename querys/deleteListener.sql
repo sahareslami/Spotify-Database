@@ -1,0 +1,1 @@
+DELETE FROM listener WHERE username = 'shiva';

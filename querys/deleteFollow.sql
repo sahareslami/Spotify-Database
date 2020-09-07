@@ -1,0 +1,1 @@
+DELETE FROM follow WHERE follower = 'shiva' or followed = 'shiva';
